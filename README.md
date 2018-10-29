@@ -1,5 +1,5 @@
 # hello-world
-first repository
+First Repository
 
-hello everyone, i am learning how to use github!
+Hello Everyone, I am learning how to use github!
 
